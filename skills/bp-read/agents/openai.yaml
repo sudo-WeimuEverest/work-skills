@@ -1,0 +1,4 @@
+interface:
+  display_name: "BP Read"
+  short_description: "Review BP PDFs for investors"
+  default_prompt: "Use this skill when the user provides a BP or pitch deck PDF and wants an investor-oriented first-pass summary, a memo-style intro page, and a prioritized research agenda."
