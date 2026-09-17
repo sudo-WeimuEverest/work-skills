@@ -8,3 +8,4 @@ A dedicated repository for reusable skills, workflows, and supporting scripts.
 - `workflows/`: workflow docs, automations, and operating procedures
 - `scripts/`: helper scripts for packaging, sync, or validation
 - `examples/`: concrete usage examples and demos
+- `docs/`: personal onboarding notes and usage guides for the tools around this repo
